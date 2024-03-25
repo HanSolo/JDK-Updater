@@ -22,6 +22,9 @@ DerivedData/
 *.perspectivev3
 !default.perspectivev3
 
+*.dmg
+*.pkg
+
 ## Obj-C/Swift specific
 *.hmap
 
@@ -88,3 +91,6 @@ fastlane/test_output
 # https://github.com/johnno1962/injectionforxcode
 
 iOSInjectionProject/
+.DS_Store
+/icon1024
+/JDKUpdater
