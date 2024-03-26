@@ -32,6 +32,10 @@ should be able to detect the following distributions:
 - Zulu
 - Prime
 
+
+[JDK Updater]!(https://i.ibb.co/WvzQM9Z/JDKUpdater.png)
+
+
 The application is a stand alone application and will show you the latest early access and
 general availability builds that it found for each distribution.
 
