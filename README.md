@@ -54,6 +54,12 @@ execute the installation by sdkman by pressing enter.
 In case it finds a distribution that is managed by jbang, pressing the install button will download and install the
 selected JDK in the correct folder on your drive and no further action is needed.
 
+The distribution that is set as default JVM in MacOS will be highlighted by a bold italics font. This doesn't mean that
+you cannot set a different JAVA_HOME variable in .bash_profile or .zshrhc. The default JVM is the one that you get when you
+execute /usr/libexec/java_home.
+MacOS will choose a JVM from the folder /Library/Java/JavaVirtualMachines and in addition the JVM Info.plist file needs
+to be in the folder /JVM_NAME/Contents/Info.plist to be correctly detected by libexec. 
+
 When clicking on the name of the distribution, a context menu will open with two entries. You can either open the
 download page of the selected distribution in your default browser or open the installation path of the distribution 
 in a terminal window.
