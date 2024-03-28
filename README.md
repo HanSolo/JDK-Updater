@@ -54,6 +54,7 @@ execute the installation by sdkman by pressing enter.
 In case it finds a distribution that is managed by jbang, pressing the install button will download and install the
 selected JDK in the correct folder on your drive and no further action is needed.
 
-When clicking on the name of the distribution, it will open the default browser with the download
-page of the that distribution, in case you would like to download another version.
+When clicking on the name of the distribution, a context menu will open with two entries. You can either open the
+download page of the selected distribution in your default browser or open the installation path of the distribution 
+in a terminal window.
 
