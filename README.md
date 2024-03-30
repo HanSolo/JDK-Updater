@@ -2,6 +2,10 @@
 
 JDK Updater is a little tool, written in Swift, that should help you to keep track
 of updates related to builds of OpenJDK and GraalVM.
+
+Be aware that it takes some time to find all installed JVM's at startup, after the
+initial scan, it will be repeated automatically every 3 hours.
+
 It scans the ~/Library/Java folder for installed builds of OpenJDK and GraalVM and
 should be able to detect the following distributions:
 
@@ -13,6 +17,7 @@ should be able to detect the following distributions:
 - Gluon GraalVM
 - GraalVM community
 - GraalVM
+- Homebrew build of OpenJDK
 - JebBrains
 - Kona
 - Liberica
@@ -45,8 +50,8 @@ download.
 
 There are indicators for the JVM type (JDK / JRE) and the architecture of the installed JVM (x64/ARM).
 
-You can find a list of JEP's (JDK Enhancement Prooposals) in the toolbar, clicking on an item will open
-the related website in your default browser.
+There is a button called "JEPs" in the toolbar which will open a JEP explorer where you can search for
+existing JEP's (JDK Enhancement Proposals) and open them in your default browser by clicking on a JEP.
 
 It will download the file to your Downloads folder and from there you can install it as you would normaly do.
 In case it finds a distribution that is managed by sdkman, you will see an install button.
