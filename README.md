@@ -1,6 +1,8 @@
 ## JDK-Updater
 
-JDK Updater is a little tool, written in Swift, that should help you to keep track
+JDKUpdater works from MacOS 14 onwards.
+
+JDKUpdater is a little tool, written in Swift, that should help you to keep track
 of updates related to builds of OpenJDK and GraalVM.
 
 Be aware that it takes some time to find all installed JVM's at startup, after the
@@ -38,7 +40,7 @@ should be able to detect the following distributions:
 - Prime
 
 
-![JDK Updater](https://i.ibb.co/WvzQM9Z/JDKUpdater.png)
+![JDKUpdater](https://i.ibb.co/WvzQM9Z/JDKUpdater.png)
 
 
 The application is a stand alone application and will show you the latest early access and
