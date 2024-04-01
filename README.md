@@ -44,7 +44,7 @@ should be able to detect the following distributions:
 The application is a stand alone application and will show you the latest early access and
 general availability builds that it found for each distribution.
 
-In addition it will jbang, sdkman and homebrew managed builds of OpenJDK.
+In addition it will jbang, sdkman, homebrew and nix managed builds of OpenJDK.
 It will also offer you the downloads of the available files that it found (tar.gz, zip, pkg, dmg) for
 download. 
 
@@ -71,4 +71,7 @@ to be in the folder /JVM_NAME/Contents/Info.plist to be correctly detected by li
 When clicking on the name of the distribution, a context menu will open with two entries. You can either open the
 download page of the selected distribution in your default browser or open the installation path of the distribution 
 in a terminal window.
+
+There are also 2 widgets (small and medium) available that show the next upcoming release and how long it will take
+to the next release and to the next update of the OpenJDK project.
 
