@@ -40,7 +40,7 @@ should be able to detect the following distributions:
 - Prime
 
 
-![JDKUpdater](https://i.ibb.co/WvzQM9Z/JDKUpdater.png)
+![JDKUpdater](https://i.ibb.co/tM7mtW1/JDKUpdater.png)
 
 
 The application is a stand alone application and will show you the latest early access and
@@ -56,8 +56,12 @@ In the Toolbar you will find a button named "Projects" which will open an OpenJD
 you can search for existing OpenJDK projects. If you click on a project, it will be opened in your default
 browser.
 
+![ProjectExplorer](https://i.ibb.co/hV1P7HX/JDKUpdater-Project-Explorer.png)
+
 There is also a button called "JEPs" in the toolbar which will open a JEP explorer where you can search for
 existing JEP's (JDK Enhancement Proposals) and open them in your default browser by clicking on a JEP.
+
+![JEPExplorer](https://i.ibb.co/bmnf0Xx/JDKUpdater-JEPExplorer.png)
 
 It will download the file to your Downloads folder and from there you can install it as you would normaly do.
 In case it finds a distribution that is managed by sdkman, you will see an install button.
