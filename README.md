@@ -52,7 +52,11 @@ download.
 
 There are indicators for the JVM type (JDK / JRE) and the architecture of the installed JVM (x64/ARM).
 
-There is a button called "JEPs" in the toolbar which will open a JEP explorer where you can search for
+In the Toolbar you will find a button named "Projects" which will open an OpenJDK Project explorer where
+you can search for existing OpenJDK projects. If you click on a project, it will be opened in your default
+browser.
+
+There is also a button called "JEPs" in the toolbar which will open a JEP explorer where you can search for
 existing JEP's (JDK Enhancement Proposals) and open them in your default browser by clicking on a JEP.
 
 It will download the file to your Downloads folder and from there you can install it as you would normaly do.
