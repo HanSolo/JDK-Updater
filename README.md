@@ -40,28 +40,40 @@ should be able to detect the following distributions:
 - Prime
 
 
-![JDKUpdater](https://i.ibb.co/tM7mtW1/JDKUpdater.png)
+![JDKUpdater](https://github.com/HanSolo/JDK-Updater/raw/main/screenshots/JDKUpdater.png)
 
 
 The application is a stand alone application and will show you the latest early access and
 general availability builds that it found for each distribution.
 
-In addition it will jbang, sdkman, homebrew and nix managed builds of OpenJDK.
+In addition it will identify jbang, sdkman, homebrew and nix managed builds of OpenJDK.
 It will also offer you the downloads of the available files that it found (tar.gz, zip, pkg, dmg) for
-download. 
+download. To enable the scanning for one of these package managers you have to enable them in the
+menubar icon menu.
+
+![MenubarIconMenu](https://github.com/HanSolo/JDK-Updater/raw/main/screenshots/JDKUpdater_MenuBar.png)
 
 There are indicators for the JVM type (JDK / JRE) and the architecture of the installed JVM (x64/ARM).
+
+The Download button in the toolbar will enable you to download a specific distribution of your choice.
+In the Download view you can select the distribution (e.g. Zulu, JetBrains etc.), the available major 
+versions (e.g. 17, 18, 19, 20, 21 etc.) for this distribution, the available updates (e.g. 17.0.8, 17.0.9, 17.0.10 etc.) 
+and finally the packages you can download (e.g. dmg, pkg, tar.gz or zip).
+
+![DownloadView](https://github.com/HanSolo/JDK-Updater/raw/main/screenshots/JDKUpdater_Download.png)
 
 In the Toolbar you will find a button named "Projects" which will open an OpenJDK Project explorer where
 you can search for existing OpenJDK projects. If you click on a project, it will be opened in your default
 browser.
 
-![ProjectExplorer](https://i.ibb.co/hV1P7HX/JDKUpdater-Project-Explorer.png)
+![ProjectExplorer](https://github.com/HanSolo/JDK-Updater/raw/main/screenshots/JDKUpdater_ProjectExplorer.png)
 
 There is also a button called "JEPs" in the toolbar which will open a JEP explorer where you can search for
 existing JEP's (JDK Enhancement Proposals) and open them in your default browser by clicking on a JEP.
+If you click on the info icon on the left side of each JEP, it will show you the summary of this JEP in the
+lower part of the window.
 
-![JEPExplorer](https://i.ibb.co/bmnf0Xx/JDKUpdater-JEPExplorer.png)
+![JEPExplorer](https://github.com/HanSolo/JDK-Updater/raw/main/screenshots/JDKUpdater_JEPExplorer.png)
 
 It will download the file to your Downloads folder and from there you can install it as you would normaly do.
 In case it finds a distribution that is managed by sdkman, you will see an install button.
@@ -85,3 +97,6 @@ in a terminal window.
 There are also 2 widgets (small and medium) available that show the next upcoming release and how long it will take
 to the next release and to the next update of the OpenJDK project.
 
+![WidgetSmall](https://github.com/HanSolo/JDK-Updater/raw/main/screenshots/JDKUpdater_Widget_Small.png)
+
+![WidgetMedium](https://github.com/HanSolo/JDK-Updater/raw/main/screenshots/JDKUpdater_Widget_Medium.png)
