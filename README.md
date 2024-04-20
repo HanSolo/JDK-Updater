@@ -47,7 +47,7 @@ should be able to detect the following distributions:
 The application is a stand alone application and will show you the latest early access and
 general availability builds that it found for each distribution.
 
-In addition it will identify jbang, sdkman, homebrew and nix managed builds of OpenJDK.
+In addition it will identify jbang, sdkman, homebrew,nix and jabba managed builds of OpenJDK.
 It will also offer you the downloads of the available files that it found (tar.gz, zip, pkg, dmg) for
 download. To enable the scanning for one of these package managers you have to enable them in the
 settings menu.
