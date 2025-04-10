@@ -60,6 +60,11 @@ The Download button in the toolbar will enable you to download a specific distri
 In the Download view you can select the distribution (e.g. Zulu, JetBrains etc.), the available major 
 versions (e.g. 17, 18, 19, 20, 21 etc.) for this distribution, the available updates (e.g. 17.0.8, 17.0.9, 17.0.10 etc.) 
 and finally the packages you can download (e.g. dmg, pkg, tar.gz or zip).
+There is also an indicator in case there are open CVE's (vulnerabilities) for one of your installed JDK's. In this
+case you will see a red triangle with an exclamation mark. If you click on that triangle, it will open a view that
+contains all CVE's that affect the selected JDK.
+In addition you will find an indicator for OpenJDK Vulnerability Advisories. These will be indicated using a blue info
+circle. If you click on this info circle, it will open the selected advisory in the default browser.
 
 ![DownloadView](https://github.com/HanSolo/JDK-Updater/raw/main/screenshots/JDKUpdater_Download.png)
 
@@ -91,9 +96,13 @@ execute /usr/libexec/java_home.
 MacOS will choose a JVM from the folder /Library/Java/JavaVirtualMachines and in addition the JVM Info.plist file needs
 to be in the folder /JVM_NAME/Contents/Info.plist to be correctly detected by libexec. 
 
-When clicking on the name of the distribution, a context menu will open with two entries. You can either open the
+When clicking on the name of the distribution, a context menu will open with three entries. You can either open the
 download page of the selected distribution in your default browser or open the installation path of the distribution 
-in a terminal window.
+in a terminal window and in addition you can open a view that will show you the resolved CVE's for the selected JDK.
+
+The view with the resolved CVE's per JDK version looks as follows
+
+![ResolvedCVEsPerVersion](https://github.com/HanSolo/JDK-Updater/raw/main/screenshots/JDKUpdater_ResolvedCvesPerVersion.png)
 
 There are also 2 widgets (small and medium) available that show the next upcoming release and how long it will take
 to the next release and to the next update of the OpenJDK project.
