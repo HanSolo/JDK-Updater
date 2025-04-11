@@ -104,6 +104,11 @@ The view with the resolved CVE's per JDK version looks as follows
 
 ![ResolvedCVEsPerVersion](https://github.com/HanSolo/JDK-Updater/raw/main/screenshots/JDKUpdater_ResolvedCvesPerVersion.png)
 
+Here you can also choose between a showing resolved CVE's per version or accumulated CVE's per version. The accumulated view
+looks as follows
+
+![AccumulatedCVEsPerVersion] (https://github.com/HanSolo/JDK-Updater/raw/main/screenshots/JDKUpdater_AccumulatedCVEs.png)
+
 There are also 2 widgets (small and medium) available that show the next upcoming release and how long it will take
 to the next release and to the next update of the OpenJDK project.
 
