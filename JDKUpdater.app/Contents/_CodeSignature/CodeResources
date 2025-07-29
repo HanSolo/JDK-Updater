@@ -10,19 +10,7 @@
 		</data>
 		<key>Resources/Assets.car</key>
 		<data>
-		/wjWFUaszoMEySr0mXhUqp13OSM=
-		</data>
-		<key>Resources/cve_graalvm.json</key>
-		<data>
-		5NYzGoXp3gSaHINm0oQzSg/Go+E=
-		</data>
-		<key>Resources/cve_openj9.json</key>
-		<data>
-		XnErnGXHwsoGu9Ft8FzCzQqkUs0=
-		</data>
-		<key>Resources/cve_openjdk.json</key>
-		<data>
-		a5QvElpz3JXA19UHLqTyUxTLgg4=
+		BU12CSsGOcqiKxF82ZziiQX0eXw=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -31,7 +19,7 @@
 		<dict>
 			<key>cdhash</key>
 			<data>
-			ODOv6A42VPtuNwv4BGLoQUKjLJk=
+			CmfURoxx9pWzgnn2VXqz1W1Wwgw=
 			</data>
 			<key>requirement</key>
 			<string>anchor apple generic and identifier "eu.hansolo.JDKUpdater.JDKUpdaterWidget" and (certificate leaf[field.1.2.840.113635.100.6.1.9] /* exists */ or certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = L4A7549EHC)</string>
@@ -47,35 +35,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			nXE5cpsC1Rr+mtfu+xdvUecxH+ZnWFZEDoRey5T11qA=
-			</data>
-		</dict>
-		<key>Resources/cve_graalvm.json</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			KF6J+Lfl1FjIsMm4zqCCFU012Q+1MnZGOmMbFxynNMo=
-			</data>
-		</dict>
-		<key>Resources/cve_openj9.json</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			AZNH9bGAgDyA8BsqFooT1TyU9pqhYgclpbPlIT1h1mI=
-			</data>
-		</dict>
-		<key>Resources/cve_openjdk.json</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			JsYCHX5m4keQWHH2gmujJGWNzwDUlyWM12RZpAt8vxg=
+			k58X+3EsY6P1YGm7Z594OC2CT8Db0Nur25i8u20DxIo=
 			</data>
 		</dict>
 		<key>embedded.provisionprofile</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			U3ssG+nRb4DU8by1+9Vy/DmsANtEZy57M6tkF7CA84c=
+			dwAk6aTsmDQ/CqQuO/WuzA4y/teKSAC6tIQFqVPDUNk=
 			</data>
 		</dict>
 	</dict>
