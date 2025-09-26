@@ -60,9 +60,16 @@ The Download button in the toolbar will enable you to download a specific distri
 In the Download view you can select the distribution (e.g. Zulu, JetBrains etc.), the available major 
 versions (e.g. 17, 18, 19, 20, 21 etc.) for this distribution, the available updates (e.g. 17.0.8, 17.0.9, 17.0.10 etc.) 
 and finally the packages you can download (e.g. dmg, pkg, tar.gz or zip).
+For each update that was found by JDKUpdater, you will get a notification which looks similar to this
+
+![Notification](https://github.com/HanSolo/JDK-Updater/raw/main/screenshots/JDKUpdater_Notification.png)
+
 There is also an indicator in case there are open CVE's (vulnerabilities) for one of your installed JDK's. In this
 case you will see a red triangle with an exclamation mark. If you click on that triangle, it will open a view that
 contains all CVE's that affect the selected JDK.
+
+![Vulnerabilities](https://github.com/HanSolo/JDK-Updater/raw/main/screenshots/JDKUpdater_Vulnerabilities.png)
+
 In addition you will find an indicator for OpenJDK Vulnerability Advisories. These will be indicated using a blue info
 circle. If you click on this info circle, it will open the selected advisory in the default browser.
 
