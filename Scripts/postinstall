@@ -5,6 +5,6 @@ LOGGED_IN_USER_ID=`id -u "${USER}"`
 if [ "${COMMAND_LINE_INSTALL}" = "" ]
 then
     /bin/launchctl asuser "${LOGGED_IN_USER_ID}" /usr/bin/open -g /Applications/JDKUpdater.app
+    exit 0
 fi
-
-exit 0
+exit 1
