@@ -6,11 +6,11 @@
 	<dict>
 		<key>Resources/AppIcon.icns</key>
 		<data>
-		Q8Vt8vWbL0ZtTeiTglAhEgrIAS4=
+		2UKhDDTWQ0ZDNuF+iiYxUdF50lo=
 		</data>
 		<key>Resources/Assets.car</key>
 		<data>
-		xmQKgnDBmRrh/Bna2vj7seO/gzU=
+		DR6aFAqUR4JL+ly3xoXsLgeND+k=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -19,7 +19,7 @@
 		<dict>
 			<key>cdhash</key>
 			<data>
-			AXhmHon/+7Nx7LQPDZ0ibQ+4tLI=
+			2jvndgLC9LDIFTJ8U0pdz1z+51g=
 			</data>
 			<key>requirement</key>
 			<string>anchor apple generic and identifier "eu.hansolo.JDKUpdater.JDKUpdaterWidget" and (certificate leaf[field.1.2.840.113635.100.6.1.9] /* exists */ or certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = L4A7549EHC)</string>
@@ -28,21 +28,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Ehn5IAA+O1sCHEeQ4QKxSrpKiNlKzv5zUre8COuwP28=
+			LZK59gI9oMqWV3MsBa1nS1heyKEwiZl5qQreY+J5Sc4=
 			</data>
 		</dict>
 		<key>Resources/Assets.car</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			SobtIdLWfChc0uotPix6LF2ym9PAMKQUtf5EpIEfC3E=
+			iSP3aovl9QJx2xj8G+yFpm0CbFw9B+9kSkNIXhfqmec=
 			</data>
 		</dict>
 		<key>embedded.provisionprofile</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			l+DWsWXJwMebQTpxxEjc07DB6bhzjBmo+GDEu+CZa9c=
+			bGu68M4UqjTlgj+TPBgWwOsKwtPa4KwQwN8JU9/FfqQ=
 			</data>
 		</dict>
 	</dict>
