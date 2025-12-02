@@ -23,13 +23,13 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>26.0.11</string>
+	<string>26.0.13</string>
 	<key>CFBundleSupportedPlatforms</key>
 	<array>
 		<string>MacOSX</string>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>187</string>
+	<string>189</string>
 	<key>DTCompiler</key>
 	<string>com.apple.compilers.llvm.clang.1_0</string>
 	<key>DTPlatformBuild</key>
