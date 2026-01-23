@@ -10,7 +10,7 @@
 		</data>
 		<key>Resources/Assets.car</key>
 		<data>
-		FXLxEqPTmn1AM7Dh3Tap8hWv0e0=
+		mtVSa2pYWvoQc97+2tue3lbPSFI=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -19,7 +19,7 @@
 		<dict>
 			<key>cdhash</key>
 			<data>
-			NuE4uPAWJVlOss9smNUz+I9cOYc=
+			E/KEXWS1U0X1R4ML80Rrs5ACF8w=
 			</data>
 			<key>requirement</key>
 			<string>anchor apple generic and identifier "eu.hansolo.JDKUpdater.JDKUpdaterWidget" and (certificate leaf[field.1.2.840.113635.100.6.1.9] /* exists */ or certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = L4A7549EHC)</string>
@@ -35,7 +35,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			e/4zGszej7zZBFdN/Ocj/KtlW0vVQtxKe4Pn68a+KLE=
+			TiROM0b9Tcn9kt4Rzac2ABTAxyjEGtc0WJCKaKdS6j0=
 			</data>
 		</dict>
 		<key>embedded.provisionprofile</key>
