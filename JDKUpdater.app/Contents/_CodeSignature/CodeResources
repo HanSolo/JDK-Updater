@@ -10,11 +10,7 @@
 		</data>
 		<key>Resources/Assets.car</key>
 		<data>
-<<<<<<< HEAD
-		QdY7FZr3YQ3ujEfu5gGS2Q6JKKc=
-=======
-		Gky/5n881ubgorGbbl3Hi0sJy3E=
->>>>>>> 123d6c5 (Fixed some issues)
+		qAP9hWVwBJZ3c/vx+PjNwpVBHrg=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -23,11 +19,7 @@
 		<dict>
 			<key>cdhash</key>
 			<data>
-<<<<<<< HEAD
-			5IYVguX4YOsSJfNCLwcHnXAJkAA=
-=======
-			wS8p+fQ8Rq56q7z1Sk6rdg4bH5Q=
->>>>>>> 123d6c5 (Fixed some issues)
+			0RpOgD+lqh8l/huAaXaDZOJOBJs=
 			</data>
 			<key>requirement</key>
 			<string>anchor apple generic and identifier "eu.hansolo.JDKUpdater.JDKUpdaterWidget" and (certificate leaf[field.1.2.840.113635.100.6.1.9] /* exists */ or certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = L4A7549EHC)</string>
@@ -43,11 +35,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-<<<<<<< HEAD
-			/Ui6FO6rcxYEXU64mRPYRGSXYwkI2OdzJdeem+2mkKY=
-=======
-			YM6InmXAinAX+FSJhpSe5ApI228fnXRpernccH0rjQ0=
->>>>>>> 123d6c5 (Fixed some issues)
+			TsGl/rKasb/0GQRfKygR9Uh7yNb5zf9+Epp3YwiHEcM=
 			</data>
 		</dict>
 		<key>embedded.provisionprofile</key>
