@@ -3,7 +3,11 @@
 <plist version="1.0">
 <dict>
 	<key>BuildMachineOSBuild</key>
+<<<<<<< HEAD
 	<string>25F80</string>
+=======
+	<string>25F84</string>
+>>>>>>> 8f27a65 (Added info about upcoming CPU and CSPU updates)
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleDisplayName</key>
@@ -19,13 +23,13 @@
 	<key>CFBundlePackageType</key>
 	<string>XPC!</string>
 	<key>CFBundleShortVersionString</key>
-	<string>26.0.25</string>
+	<string>26.0.31</string>
 	<key>CFBundleSupportedPlatforms</key>
 	<array>
 		<string>MacOSX</string>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>203</string>
+	<string>209</string>
 	<key>DTCompiler</key>
 	<string>com.apple.compilers.llvm.clang.1_0</string>
 	<key>DTPlatformBuild</key>
@@ -39,9 +43,15 @@
 	<key>DTSDKName</key>
 	<string>macosx26.5</string>
 	<key>DTXcode</key>
+<<<<<<< HEAD
 	<string>2650</string>
 	<key>DTXcodeBuild</key>
 	<string>17F42</string>
+=======
+	<string>2660</string>
+	<key>DTXcodeBuild</key>
+	<string>17F113</string>
+>>>>>>> 8f27a65 (Added info about upcoming CPU and CSPU updates)
 	<key>LSMinimumSystemVersion</key>
 	<string>26.0</string>
 	<key>NSExtension</key>

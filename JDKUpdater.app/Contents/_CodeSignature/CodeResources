@@ -6,11 +6,15 @@
 	<dict>
 		<key>Resources/AppIcon.icns</key>
 		<data>
-		V0j87f3tU/N5qp+MZYlBlNA7gjc=
+		2UKhDDTWQ0ZDNuF+iiYxUdF50lo=
 		</data>
 		<key>Resources/Assets.car</key>
 		<data>
+<<<<<<< HEAD
 		qAP9hWVwBJZ3c/vx+PjNwpVBHrg=
+=======
+		yyXUyuyQAX2ZBl4a/jldZ3AJQi8=
+>>>>>>> 8f27a65 (Added info about upcoming CPU and CSPU updates)
 		</data>
 	</dict>
 	<key>files2</key>
@@ -19,7 +23,11 @@
 		<dict>
 			<key>cdhash</key>
 			<data>
+<<<<<<< HEAD
 			0RpOgD+lqh8l/huAaXaDZOJOBJs=
+=======
+			4JUjpXjzOdbHgTQsott9vW88s3o=
+>>>>>>> 8f27a65 (Added info about upcoming CPU and CSPU updates)
 			</data>
 			<key>requirement</key>
 			<string>anchor apple generic and identifier "eu.hansolo.JDKUpdater.JDKUpdaterWidget" and (certificate leaf[field.1.2.840.113635.100.6.1.9] /* exists */ or certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = L4A7549EHC)</string>
@@ -28,21 +36,25 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			kybkV/qL4Fjwveq6Kmkj69S2IhepkQGTOPjf57nrbeU=
+			LZK59gI9oMqWV3MsBa1nS1heyKEwiZl5qQreY+J5Sc4=
 			</data>
 		</dict>
 		<key>Resources/Assets.car</key>
 		<dict>
 			<key>hash2</key>
 			<data>
+<<<<<<< HEAD
 			TsGl/rKasb/0GQRfKygR9Uh7yNb5zf9+Epp3YwiHEcM=
+=======
+			iJejmeSXsIW4DM3qzA4hffk+f9RS2T5xJKhqK6XBN1Y=
+>>>>>>> 8f27a65 (Added info about upcoming CPU and CSPU updates)
 			</data>
 		</dict>
 		<key>embedded.provisionprofile</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			l+DWsWXJwMebQTpxxEjc07DB6bhzjBmo+GDEu+CZa9c=
+			bGu68M4UqjTlgj+TPBgWwOsKwtPa4KwQwN8JU9/FfqQ=
 			</data>
 		</dict>
 	</dict>
